@@ -297,11 +297,6 @@ h4 {
 .gallery .place {
     padding-bottom: 10px;
 }
-@media only screen and (max-width: 320px) {
-    h4 {
-        /*padding-bottom: 40px;*/
-    }
-}
 
 #collapseOne, #collapseTwo {
     padding: 0 60px 90px 60px;
@@ -505,7 +500,7 @@ h3 {
 
 .gallery {
     max-width: 800px;
-    height: 365px;
+    height: auto;
     margin: 30px auto;
 }
 
