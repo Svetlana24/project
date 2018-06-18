@@ -294,7 +294,9 @@ h4 {
     padding-bottom: 40px;
     font-weight: 700;
 }
-
+.gallery .place {
+    padding-bottom: 10px;
+}
 @media only screen and (max-width: 320px) {
     h4 {
         /*padding-bottom: 40px;*/
