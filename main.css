@@ -316,7 +316,7 @@ h4 {
 }
 
 .about_tutors {
-    height: 330px;
+/*     height: 330px; */
     float: right;
     z-index: 100;
     background-color: #ffffff;
