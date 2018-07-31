@@ -45,6 +45,7 @@ a:hover {
 }
 
 header {
+    margin: 0 auto;
     z-index: 1;
     max-width: 1400px;
     
@@ -141,6 +142,7 @@ input {
 }
 
 .head {
+    margin: 0 auto;
     height: 400px;
     max-width: 1400px;
     position: relative;
@@ -239,6 +241,7 @@ p {
 }
 
 .info {
+    margin: 0 auto;
     max-width: 1400px;
     background-color: #f2f2f2;
 }
